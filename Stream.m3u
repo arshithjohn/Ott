@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/9408/1789128729408-t" tvg-country="India" tvg-language="Tamil" http-user-agent="h" http-referrer="h" referrer="h",Bigg Boss Tamil
+#EXTVLCOPT:http-user-agent=h
+#EXTVLCOPT:http-referrer=h
+https://img10.hotstar.com/image/upload/f_auto,q_90/sources/r1/cms/prod/9754/1788691699754-h
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90/sources/r1/cms/prod/804/1789157990804-h" tvg-country="India" tvg-language="Tamil" http-user-agent="h" http-referrer="h" referrer="h",Bigg Boss Tamil 24x7
+#EXTVLCOPT:http-user-agent=h
+#EXTVLCOPT:http-referrer=h
+https://img10.hotstar.com/image/upload/f_auto,q_90/sources/r1/cms/prod/9754/1788691699754-h
+#EXTINF:-1 http-user-agent="h" http-referrer="h" referrer="h",Live Cricket
+#EXTVLCOPT:http-user-agent=h
+#EXTVLCOPT:http-referrer=h
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=h
+https
