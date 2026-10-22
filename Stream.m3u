@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/9408/1789128729408-t" tvg-country="India" tvg-language="Tamil" http-user-agent="h" http-referrer="" referrer="h",Bigg Boss Tamil
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/9408/1789128729408-t" tvg-country="India" tvg-language="Tamil",Bigg Boss Tamil
 #EXTVLCOPT:http-user-agent=
 #EXTVLCOPT:http-referrer=
 https
@@ -7,7 +7,7 @@ https
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; SM-M156B/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 EdgA/153.0.4234.49
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/in/shows/bbs10-24x7-stream-deferred/1271698289/live/watch
 https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-tam-2026/0e8f0050df134b708ab297477fbf0e86/index.m3u8?aws.manifestfilter=video_height:0-1080&hdnea=exp=1792691876~data=ip%3dmH9Yn6jtjoJJ3xlDP23ptlNUBL2SImrFUW0d4QOqyAjafMmN5N4rEAh-userid%3dfNQxHcdU87xeN9b32NQQhvK82NwGjPrh2IBglftBNrZz-did%3dwz9KKxjq6PsZD530pIgotT58HvfxzLcg0M5A0ntEvZeI-cc%3din-bl%3djhs-ctype%3dshow_live-de%3d1-pl%3dweb-ap%3d26.10.05.0-ut%3dfree-fpassv2-chids%3dMs6zApWH-ttl%3d1800-type%3dpaid-~hmac=d7a00dbb689d90622dfb63eb7603d49044ec2f79d93df9da6264be2077a9c520
-#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90/sources/r1/cms/prod/6630/1526630-a-9b9ea791cdaf" http-user-agent="" http-referrer="h" referrer="h",Live Cricket
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90/sources/r1/cms/prod/6630/1526630-a-9b9ea791cdaf",Live Cricket
 #EXTVLCOPT:http-user-agent=
 #EXTVLCOPT:http-referrer=
 #KODIPROP:inputstream=inputstream.adaptive
@@ -15,7 +15,14 @@ https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-tam-2026/0e8f0050df134b70
 #KODIPROP:inputstream.adaptive.license_type=
 #KODIPROP:inputstream.adaptive.license_key=
 https
-#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90/sources/r1/cms/prod/4550/1534550-a-fc4b5ad51967" http-user-agent="" http-referrer="" referrer="",Football
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90/sources/r1/cms/prod/4550/1534550-a-fc4b5ad51967",Live Football
+#EXTVLCOPT:http-user-agent=
+#EXTVLCOPT:http-referrer=
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=
+#KODIPROP:inputstream.adaptive.license_type=
+https
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90/v1739522200/feature/categories/Movie.jpg",Movies
 #EXTVLCOPT:http-user-agent=
 #EXTVLCOPT:http-referrer=
 #KODIPROP:inputstream=inputstream.adaptive
