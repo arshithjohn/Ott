@@ -1,0 +1,415 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="9XJalwa.in@HD" tvg-logo="https://i.imgur.com/qubgOi5.png" tvg-country="India" tvg-language="Hindi" group-title="Music" http-user-agent="ExoPlayerLib/2.19.1 (Android 13; Mobile)",9X Jalwa
+#EXTVLCOPT:http-user-agent="ExoPlayerLib/2.19.1 (Android 13; Mobile)"
+https://9xjio.wiseplayout.com/9XJalwa/master.m3u8
+#EXTINF:-1 tvg-id="9XJhakaas.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png?lock=720x540" tvg-country="India" tvg-language="Marathi" group-title="Music" http-user-agent="ExoPlayerLib/2.19.1 (Android 13; Mobile)",9X Jhakaas
+#EXTVLCOPT:http-user-agent="ExoPlayerLib/2.19.1 (Android 13; Mobile)"
+https://9xjio.wiseplayout.com/9XJhakaas/master.m3u8
+#EXTINF:-1 tvg-id="9XTashan.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png" tvg-country="India" tvg-language="Punjabi" group-title="Music" http-user-agent="ExoPlayerLib/2.19.1 (Android 13; Mobile)",9X Tashan
+#EXTVLCOPT:http-user-agent="ExoPlayerLib/2.19.1 (Android 13; Mobile)"
+https://9xjio.wiseplayout.com/9XTashan/master.m3u8
+#EXTINF:-1 tvg-id="9XM.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png" tvg-country="India" tvg-language="Hindi" group-title="Music" http-user-agent="ExoPlayerLib/2.19.1 (Android 13; Mobile)",9XM
+#EXTVLCOPT:http-user-agent="ExoPlayerLib/2.19.1 (Android 13; Mobile)"
+https://9xjio.wiseplayout.com/9XM/master.m3u8
+#EXTINF:-1 tvg-id="AdithyaTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002Z1V12.png?lock=720x540" tvg-country="India" tvg-language="Tamil" group-title="Entertainment" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png",Adithya TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d674a1a7f43641a29bd8867d87c7259a:812f55dcde68619fc6ad95951b241d2c
+https://livestream.sunnxt.com/4d0eb3cde30247ada4ade679fdfbaf86/AdithyaTVB_IN_index.mpd
+#EXTINF:-1 tvg-id="AmritaTV.in@SD" tvg-logo="https://i.imgur.com/WdSjlPl.png" tvg-country="India" tvg-language="Malayalam" group-title="Entertainment",Amrita TV
+https://ddash74r36xqp.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="AngelTV.in@HD" tvg-logo="https://i.imgur.com/qKLEGU7.png" tvg-country="India" tvg-language="Tamil" group-title="Devotional",Angel TV
+https://janya-digimix2.akamaized.net/india/ngrp:angelindia_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimaxAsia.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png" tvg-country="India" tvg-language="Japanese" group-title="Animation",Animax Asia India
+https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="AsianetNews.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/5f715bc6bd4e0ffae27bbe3cd86d5904.png" tvg-country="India" tvg-language="Malayalam" group-title="News" http-user-agent="AppleTV6,3/17.2 (Apple TV; U; en)",Asianet News
+#EXTVLCOPT:http-user-agent="AppleTV6,3/17.2 (Apple TV; U; en)"
+https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCEarth.us@HD" tvg-logo="https://i.imgur.com/nGSsUd4.png" tvg-country="United States" tvg-language="English" group-title="Infotainment",BBC Earth
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergOriginals.us@HD" tvg-logo="https://www.asiasat.com/sites/default/files/2025-11/logo-bloomberg_originals.png" tvg-country="United States" tvg-language="English" group-title="Business",Bloomberg Originals
+https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us@4K" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_TV.png" tvg-country="United States" tvg-language="English" group-title="Business",Bloomberg TV+
+https://d8975dc3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9CbG9vbWJlcmdUVlBsdXNfSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="BritAsia.uk@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Brit_Asia.png" tvg-country="United Kingdom" tvg-language="Punjabi" group-title="Music" tvg-type="Music",Brit Asia
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://localhost:5350/live/key/1192
+http://localhost:5350/live/mpd/1192
+#EXTINF:-1 tvg-id="ChuttiTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002Z1TS1.png?lock=720x540" tvg-country="India" tvg-language="Tamil" group-title="Animation" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png",Chutti TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05da38a46fb7403088f41434e44de980:488046139a1e1d65323cfe4bb1b30b7b
+https://livestream.sunnxt.com/3ed29d5b01b546eaa05d184cd87535f1/ChuttiTVB_IN_index.mpd
+#EXTINF:-1 tvg-id="CNBCTV18.in@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNBC_TV18_2026.svg/960px-CNBC_TV18_2026.svg.png" tvg-country="India" tvg-language="English" group-title="Business",CNBC TV18
+https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-id="CNBCTV18Prime.in@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/CNBC_TV18_PRIME_2026.svg/960px-CNBC_TV18_PRIME_2026.svg.png" tvg-country="India" tvg-language="English" group-title="Business",CNBC TV18 Prime
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-id="CNNNews18.in@HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/CNN%20News18.png" tvg-country="India" tvg-language="English" group-title="News" http-user-agent="TiviMate/2.7.5 (Linux; Android 13;) ExoPlayerLib/1.10.1" tvg-type="News",CNN News18
+#EXTVLCOPT:http-user-agent="TiviMate/2.7.5 (Linux; Android 13;) ExoPlayerLib/1.10.1"
+https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-id="ColorsInfinity.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s158150_ld_h15_aa.png?lock=720x540" tvg-country="India" tvg-language="English" group-title="Entertainment" tvg-type="Entertainment",Colors Infinity HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://localhost:5350/live/key/1158
+http://localhost:5350/live/mpd/1158
+#EXTINF:-1 tvg-id="DAZNRingside.uk@HD" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fa80e755e-06ee-438a-9b24-628f0ebb1c81%2FPLEX-Channel_Logos-1500x1000WHITE.png" tvg-country="United Kingdom" tvg-language="English" group-title="Sports" http-user-agent="Prime Video/3.0.58 (Android TV)",DAZN Ringside
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=99f2d8b38451875101393cfda6cc5e77:3d32bdfa5fe52cf74567eb20716b5a65
+#EXTVLCOPT:http-user-agent="Prime Video/3.0.58 (Android TV)"
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3akahygf9y/out/v1/cc0ca029222b46b3a36e610e0a85fe91/cenc.mpd
+#EXTINF:-1 tvg-id="DDIndia.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s158251_ld_h15_aa.png?lock=720x540" tvg-country="India" tvg-language="English" group-title="News",DD India
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
+#EXTINF:-1 tvg-id="DDNational.in@HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20National.png" tvg-country="India" tvg-language="Hindi" group-title="Entertainment",DD National HD
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+#EXTINF:-1 tvg-id="DDSports.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540" tvg-country="India" tvg-language="Hindi" group-title="Sports",DD Sports
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1 tvg-id="DDTamil.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s142797_ld_h15_aa.png?lock=720x540" tvg-country="India" tvg-language="Tamil" group-title="News",DD Tamil
+https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
+#EXTINF:-1 tvg-id="Discovery.in@HD" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Discovery_Channel_HD._SL500_FMpng_.png" tvg-country="India" tvg-language="English" group-title="Infotainment" tvg-type="Infotainment",Discovery HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://localhost:5350/live/key/463
+http://localhost:5350/live/mpd/463
+#EXTINF:-1 tvg-id="DW.de@HD" tvg-logo="https://i.imgur.com/8MRNFb9.png" tvg-country="Germany" tvg-language="English" group-title="News",DW
+https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionIndia.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/2a3c292cb9f697920bcb82fc5ff09828.png" tvg-country="India" tvg-language="English" group-title="Lifestyle" tvg-type="Lifestyle",Fashion India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://localhost:5350/live/key/2031
+http://localhost:5350/live/mpd/2031
+#EXTINF:-1 tvg-id="FlowersTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143065_ld_h15_aa.png?lock=720x540" tvg-country="India" tvg-language="Malayalam" group-title="Entertainment" tvg-type="Entertainment",Flowers TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://localhost:5350/live/key/634
+http://localhost:5350/live/mpd/634
+#EXTINF:-1 tvg-id="France24.fr@HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/France%2024.png" tvg-country="France" tvg-language="English" group-title="News",France 24
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="FTV.in@HD" tvg-logo="https://i.imgur.com/GFTAN5Q.png" tvg-country="India" tvg-language="English" group-title="Lifestyle" tvg-type="Lifestyle",FTV HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://localhost:5350/live/key/1598
+http://localhost:5350/live/mpd/1598
+#EXTINF:-1 tvg-id="HistoryTV18.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" tvg-country="India" tvg-language="English" group-title="Infotainment" tvg-type="Infotainment",History TV18 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://localhost:5350/live/key/578
+http://localhost:5350/live/mpd/578
+#EXTINF:-1 tvg-id="InvestigationDiscovery.in@HD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10d7e8b1-9fe1-4c41-aeb7-331f4fb188aa/dfke6ez-fe931c72-72f8-41d0-80f7-a3415dc5db2e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8xMGQ3ZThiMS05ZmUxLTRjNDEtYWViNy0zMzFmNGZiMTg4YWEvZGZrZTZlei1mZTkzMWM3Mi03MmY4LTQxZDAtODBmNy1hMzQxNWRjNWRiMmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.G9TeILgo3So9H3t5bOP4lS00hq11YAIEdwS74fxmUpA" tvg-country="India" tvg-language="English" group-title="Entertainment" tvg-type="Entertainment",Investigation Discovery HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://localhost:5350/live/key/3435
+http://localhost:5350/live/mpd/3435
+#EXTINF:-1 tvg-id="IsaiAruvi.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143212_ld_h15_aa.png?lock=720x540" tvg-country="India" tvg-language="Tamil" group-title="Music",Isai Aruvi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90847bc89c0d5eb19c57d70370c3477c:8938c82cd4feec1f586e3c611459a7d4
+https://login.bheem.tv/bpk-tv/22348/output/index.mpd
+#EXTINF:-1 tvg-id="JMovies.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143215_ld_h15_aa.png?lock=720x540" tvg-country="India" tvg-language="Tamil" group-title="Movies" tvg-type="Movies",J Movies
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://localhost:5350/live/key/417
+http://localhost:5350/live/mpd/417
+#EXTINF:-1 tvg-id="JayaMax.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143226_ld_h15_aa.png?lock=720x540" tvg-country="India" tvg-language="Tamil" group-title="Music" tvg-type="Music",Jaya Max
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://localhost:5350/live/key/420
+http://localhost:5350/live/mpd/420
+#EXTINF:-1 tvg-id="JayaPlus.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143227_ld_h15_aa.png?lock=720x540" tvg-country="India" tvg-language="Tamil" group-title="News" tvg-type="News",Jaya Plus
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://localhost:5350/live/key/418
+http://localhost:5350/live/mpd/418
+#EXTINF:-1 tvg-id="JayaTV.in@HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Jaya%20TV%20HD.png" tvg-country="India" tvg-language="Tamil" group-title="Entertainment" tvg-type="Entertainment",Jaya TV HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://localhost:5350/live/key/419
+http://localhost:5350/live/mpd/419
+#EXTINF:-1 tvg-id="KairaliTV.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/500px-Kairali_TV.svg.png" tvg-country="India" tvg-language="Malayalam" group-title="Entertainment" tvg-type="Entertainment",Kairali TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://localhost:5350/live/key/710
+http://localhost:5350/live/mpd/710
+#EXTINF:-1 tvg-id="KairaliWe.in@SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/We%20TV.png" tvg-country="India" tvg-language="Malayalam" group-title="Entertainment" tvg-type="Entertainment",Kairali WE TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://localhost:5350/live/key/731
+http://localhost:5350/live/mpd/731
+#EXTINF:-1 tvg-id="KalaignarTV.in@HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Kalaignar%20TV.png" tvg-country="India" tvg-language="Tamil" group-title="Entertainment" tvg-type="Entertainment",Kalaignar TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://localhost:5350/live/key/1209
+http://localhost:5350/live/mpd/1209
+#EXTINF:-1 tvg-id="KappaTV.in@SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Kappa%20TV.png" tvg-country="India" tvg-language="Malayalam" group-title="Music" tvg-type="Music",Kappa TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://localhost:5350/live/key/786
+http://localhost:5350/live/mpd/786
+#EXTINF:-1 tvg-id="KochuTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kochu_TV.png" tvg-country="India" tvg-language="Malayalam" group-title="Animation" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png",Kochu TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7354fb333b0c4159bc6c433c4db13d0f:fbf8b4a11febf7d2eed2283006979176
+https://livestream.sunnxt.com/1893b9ab790747cb80a584873a608dcb/KochuTVB_IN_index.mpd
+#EXTINF:-1 tvg-id="KTV.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002Z1SEP.png?lock=720x540" tvg-country="India" tvg-language="Tamil" group-title="Movies" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png",KTV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=351e547391bb45cbac66d2cb9ec0c294:3bd646753f4903eee3b404646c7819d3
+https://livestream.sunnxt.com/61477b4c8d8d45d5a49e044cc1dffc60/KTVHDB_IN_index.mpd
+#EXTINF:-1 tvg-id="MadhaTV.in@SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Madha%20TV.png" tvg-country="India" tvg-language="Tamil" group-title="Devotional" tvg-type="Devotional",Madha TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://localhost:5350/live/key/1655
+http://localhost:5350/live/mpd/1655
+#EXTINF:-1 tvg-id="MadhimugamTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Madhimugam_TV.png" tvg-country="India" tvg-language="Tamil" group-title="News" tvg-type="News",Madhimugam TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://localhost:5350/live/key/843
+http://localhost:5350/live/mpd/843
+#EXTINF:-1 tvg-id="MalaimurasuSeithigal.in@HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/MalaiMurasu%20Seithigal.png" tvg-country="India" tvg-language="Tamil" group-title="News",Malaimurasu Seithigal
+https://amg17783-amg17783c1-amgplt0173.playout.now3.amagi.tv/playlist/amg17783-amg17783c1-amgplt0173/playlist.m3u8
+#EXTINF:-1 tvg-id="MalayalamNaaptol.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/f9a70cb4baea6a7b6ee0266a7adcfe3d.png" tvg-country="India" tvg-language="Malayalam" group-title="Shopping" tvg-type="Shopping",Malyalam Naaptol
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://localhost:5350/live/key/3174
+http://localhost:5350/live/mpd/3174
+#EXTINF:-1 tvg-id="MazhavilManorama.in@HD" tvg-logo="https://i.imgur.com/fjgzW20.png" tvg-country="India" tvg-language="Malayalam" group-title="Entertainment",Mazhavil Manorama HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://localhost:5350/live/key/844
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://localhost:5350/live/mpd/844
+#EXTINF:-1 tvg-id="MNPlus.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143548_ld_h15_aa.png?lock=720x540" tvg-country="India" tvg-language="English" group-title="Movies",MN+ HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
+#EXTINF:-1 tvg-id="MNX.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX_HD/images/LOGO_HD/image.png" tvg-country="India" tvg-language="English" group-title="Movies",MNX HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+#EXTINF:-1 tvg-id="MoonTV.in@SD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/wkfevf.png" tvg-country="India" tvg-language="Tamil" group-title="Entertainment" tvg-type="Entertainment",Moon TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://localhost:5350/live/key/1518
+http://localhost:5350/live/mpd/1518
+#EXTINF:-1 tvg-id="MoviesNow.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s147571_ld_h15_aa.png?lock=720x540" tvg-country="India" tvg-language="English" group-title="Movies",Movies Now HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+#EXTINF:-1 tvg-id="MrBeanAnimated.in@HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" tvg-country="India" tvg-language="English" group-title="Animation",Mr. Bean Animated
+https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MusicIndia.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143563_ld_h15_aa.png?lock=720x540" tvg-country="India" tvg-language="Hindi" group-title="Music" tvg-type="Music",Music India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://localhost:5350/live/key/250
+http://localhost:5350/live/mpd/250
+#EXTINF:-1 tvg-id="NDTVProfit.in@HD" tvg-logo="https://static.cdnlogo.com/logos/n/69/ndtv-profit_thumb.png" tvg-country="India" tvg-language="English" group-title="Business",NDTV Profit
+https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
+#EXTINF:-1 tvg-id="News18AssamNorthEast.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_ASSAM_NORTHSYMHYPEAST/images/LOGO_HD/image.png" tvg-country="India" tvg-language="Assamese" group-title="News",News18 Assam North-East
+https://n18syndication.akamaized.net/bpk-tv/News18_Assam_North_East_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="News18Bangla.in@HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/News18%20Bangla.png" tvg-country="India" tvg-language="Bengali" group-title="News",News18 Bangla
+https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="News18BiharJharkhand.in@HD" tvg-logo="https://i.imgur.com/FQ3zDZE.png" tvg-country="India" tvg-language="Hindi" group-title="News",News18 Bihar/Jharkhand
+https://n18syndication.akamaized.net/bpk-tv/News18_Bihar_Jharkhand_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="News18DelhiNCRJK.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News18JKLH.png" tvg-country="India" tvg-language="Hindi" group-title="News",News18 Delhi NCR JK
+https://n18syndication.akamaized.net/bpk-tv/News18_JKLH_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="News18Gujarati.in@HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/News18%20Gujarati.png" tvg-country="India" tvg-language="Gujarati" group-title="News",News18 Gujarati
+https://n18syndication.akamaized.net/bpk-tv/News18_Gujarati_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="News18India.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_INDIA/images/LOGO_HD/image.png" tvg-country="India" tvg-language="Hindi" group-title="News",News18 India
+https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="News18Kannada.in@HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/News18%20Kannada.png" tvg-country="India" tvg-language="Kannada" group-title="News" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" http-referrer="https://kannada.news18.com/" referrer="https://kannada.news18.com/",News18 Kannada
+#EXTVLCOPT:http-referrer=https://kannada.news18.com/
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0"
+https://n18syndication.akamaized.net/bpk-tv/News18_Kannada_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="News18Keralam.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_KERALA/images/LOGO_HD/image.png" tvg-country="India" tvg-language="Malayalam" group-title="News",News18 Keralam
+https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="News18MadhyaPradeshChhattisgarh.in@HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/News18%20Madhya%20Pradesh%20Chhattisgarh.png" tvg-country="India" group-title="News",News18 Madhya Pradesh/Chhattisgarh
+https://n18syndication.akamaized.net/bpk-tv/News18_MP_Chhattisgarh_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="News18Marathi.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_LOKMAT/images/LOGO_HD/image.png" tvg-country="India" tvg-language="Marathi" group-title="News",News18 Marathi
+https://n18syndication.akamaized.net/bpk-tv/News18_Lokmat_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="News18Odia.in@HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/News18%20Odia.png" tvg-country="India" tvg-language="Odia" group-title="News",News18 Odia
+https://n18syndication.akamaized.net/bpk-tv/News18_Odia_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="News18PunjabHaryanaHimachal.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143617_ld_h15_aa.png?lock=720x540" tvg-country="India" tvg-language="Punjabi" group-title="News",News18 Punjab/Haryana/Himachal
+https://n18syndication.akamaized.net/bpk-tv/News18_Punjab_Haryana_HP_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="News18Rajasthan.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_RAJASTHAN/images/LOGO_HD/image.png" tvg-country="India" group-title="News",News18 Rajasthan
+https://n18syndication.akamaized.net/bpk-tv/News18_Rajasthan_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="News18TamilNadu.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_TAMIL_NADU/images/LOGO_HD/image.png" tvg-country="India" tvg-language="Tamil" group-title="News",News18 Tamil Nadu
+https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="News18Urdu.in@HD" tvg-logo="https://i.imgur.com/8xnwMRR.png" tvg-country="India" tvg-language="Urdu" group-title="News",News18 Urdu
+https://n18syndication.akamaized.net/bpk-tv/News18_Urdu_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="News18UttarPradeshUttarakhand.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_UTTAR_PRADESH_UTTARAKHAND/images/LOGO_HD/image.png" tvg-country="India" group-title="News",News18 Uttar Pradesh/Uttarakhand
+https://n18syndication.akamaized.net/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="PeppersTV.in@SD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/dtkwal.png" tvg-country="India" tvg-language="Tamil" group-title="Entertainment" tvg-type="Entertainment",Peppers TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://localhost:5350/live/key/796
+http://localhost:5350/live/mpd/796
+#EXTINF:-1 tvg-id="PolimerNews.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143664_ld_h9_aa.png?lock=720x540" tvg-country="India" tvg-language="Tamil" group-title="News" tvg-type="News",Polimer News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://localhost:5350/live/key/636
+http://localhost:5350/live/mpd/636
+#EXTINF:-1 tvg-id="PolimerTV.in@SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Polimer%20TV.png" tvg-country="India" tvg-language="Tamil" group-title="Entertainment" tvg-type="Entertainment",Polimer TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://localhost:5350/live/key/705
+http://localhost:5350/live/mpd/705
+#EXTINF:-1 tvg-id="RajDigitalPlus.in@HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Raj%20Digital%20Plus.png" tvg-country="India" tvg-language="Tamil" group-title="Movies",Raj Digital Plus
+https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8
+#EXTINF:-1 tvg-id="RajMusixMalayalam.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143706_ld_h15_aa.png?lock=720x540" tvg-country="India" tvg-language="Malayalam" group-title="Music" tvg-type="Music",Raj Musix Malayalam
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://localhost:5350/live/key/739
+http://localhost:5350/live/mpd/739
+#EXTINF:-1 tvg-id="RajMusixTamil.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143707_ld_h15_aa.png?lock=720x540" tvg-country="India" tvg-language="Tamil" group-title="Music",Raj Musix Tamil
+https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8
+#EXTINF:-1 tvg-id="RajTV.in@SD" tvg-name="Raj TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_TV/images/LOGO_HD/image.png" tvg-country="India" tvg-language="Tamil" group-title="Entertainment" tvg-type="Entertainment",Raj TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://localhost:5350/live/key/707
+http://localhost:5350/live/mpd/707
+#EXTINF:-1 tvg-id="RedBullTV.at@HD" tvg-logo="https://logo-teka.com/wp-content/uploads/2025/10/red-bull-tv-logo.png" tvg-country="Austria" tvg-language="English" group-title="Sports",Red Bull TV
+https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="SafariTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAFARI_TV/images/LOGO_HD/image.png" tvg-country="India" tvg-language="Malayalam" group-title="Infotainment" tvg-type="Infotainment",Safari TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://localhost:5350/live/key/1666
+http://localhost:5350/live/mpd/1666
+#EXTINF:-1 tvg-id="SansadTV1.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s166275_ld_h15_aa.png?lock=720x540" tvg-country="India" tvg-language="Hindi" group-title="News",Sansad TV 1 HD
+https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8
+#EXTINF:-1 tvg-id="SansadTV2.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143761_ld_h15_aa.png?lock=720x540" tvg-country="India" tvg-language="Hindi" group-title="News",Sansad TV 2 HD
+https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8
+#EXTINF:-1 tvg-id="Shalom.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143774_ld_h15_aa.png?lock=720x540" tvg-country="India" tvg-language="Malayalam" group-title="Devotional",Shalom
+https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="SonyBBCEarth.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540" tvg-country="India" tvg-language="English" group-title="Infotainment" http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36" http-referrer="https://www.sonyliv.com/" referrer="https://www.sonyliv.com/",Sony BBC Earth HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36"
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-cookie=hdnea=exp=1792856063~acl=/*~id=46562618521668631488338931907659~hmac=4bc74954fdc0734e630cdf517667e6fae8a6120a40c194a2b111b8eabae2e7c4
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1792856063~acl=/*~id=46562618521668631488338931907659~hmac=4bc74954fdc0734e630cdf517667e6fae8a6120a40c194a2b111b8eabae2e7c4"}
+https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1792856063~acl=/*~id=46562618521668631488338931907659~hmac=4bc74954fdc0734e630cdf517667e6fae8a6120a40c194a2b111b8eabae2e7c4
+#EXTINF:-1 tvg-id="SonyPIX.in@HD" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png" tvg-country="India" tvg-language="English" group-title="Movies" http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36" http-referrer="https://www.sonyliv.com/" referrer="https://www.sonyliv.com/",Sony PIX HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36"
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-cookie=hdnea=exp=1792856063~acl=/*~id=46562618521668631488338931907659~hmac=4bc74954fdc0734e630cdf517667e6fae8a6120a40c194a2b111b8eabae2e7c4
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1792856063~acl=/*~id=46562618521668631488338931907659~hmac=4bc74954fdc0734e630cdf517667e6fae8a6120a40c194a2b111b8eabae2e7c4"}
+https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1792856063~acl=/*~id=46562618521668631488338931907659~hmac=4bc74954fdc0734e630cdf517667e6fae8a6120a40c194a2b111b8eabae2e7c4
+#EXTINF:-1 tvg-id="SunLife.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002Z1JE4.png?lock=720x540" tvg-country="India" tvg-language="Tamil" group-title="Entertainment",Sun Life
+https://livestream.sunnxt.com/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index.mpd
+#EXTINF:-1 tvg-id="SunMusic.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002Z1CL8.png?lock=720x540" tvg-country="India" tvg-language="Tamil" group-title="Music" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png",Sun Music HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5a2c6d13b9748de9ceebc0a8adc8af3:e806fec1bf1c8a844216118c94bad020
+https://livestream.sunnxt.com/d434796d90fa4dc9b7ecfacedbe683f1/SunMusicHDB_IN_index.mpd
+#EXTINF:-1 tvg-id="SunNews.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002Z0MBD.png?lock=720x540" tvg-country="India" tvg-language="Tamil" group-title="News" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png",Sun News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4df8f920386e4346ba6b7d7ae935d668:c5fcaa8df5663365d938a50987f71b84
+https://livestream3.sunnxt.com/491c99fb6d0c49e88e6349170d890a2f/SunNewsB_IN_index.mpd
+#EXTINF:-1 tvg-id="SunSuryaComedy.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Comedy.png" tvg-country="India" tvg-language="Malayalam" group-title="Entertainment" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png",Sun Surya Comedy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11563b00a46b43f2a0f80ecf42a4fb77:9bad28ad6f23dbb917c63ee680f66a1f
+https://livestream.sunnxt.com/6505e922bf164423ad122f404747356a/SuryaComedyB_IN_index.mpd
+#EXTINF:-1 tvg-id="SunSurya.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_HD.png" tvg-country="India" tvg-language="Malayalam" group-title="Entertainment" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png",Sun Surya HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eae838ccd75d4a1fbff6fd7dd1c97780:8259ce0c112725a4d2c94d154207425f
+https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_index.mpd
+#EXTINF:-1 tvg-id="SunSuryaMovies.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Movies.png" tvg-country="India" tvg-language="Malayalam" group-title="Movies" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png",Sun Surya Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6b67bccef7024f2da29b42e10dc13f89:2e8460c47d3f01693e193dba5963a5e1
+https://livestream.sunnxt.com/e24ee14c395945bd8ccb065e1bce8b9b/SuryaMoviesB_IN_index.mpd
+#EXTINF:-1 tvg-id="SunSuryaMusic.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Music.png" tvg-country="India" tvg-language="Malayalam" group-title="Music" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png",Sun Surya Music
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=25a1d2a4c3f848b1aed911ad691fe232:3c8b2cf8611c343e6a231b6a9c7c8b58
+https://livestream.sunnxt.com/8c2352ff54954e7b9a4188045dcf3b27/SuryaMusicB_IN_index.mpd
+#EXTINF:-1 tvg-id="SunTV.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002Z0M0Y.png?lock=720x540" tvg-country="India" tvg-language="Tamil" group-title="Entertainment" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png",Sun TV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
+https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd
+#EXTINF:-1 tvg-id="TamilNaaptol.inSD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TAMIL_NAAPTOL/images/LOGO_HD/image.png" tvg-country="India" tvg-language="Tamil" group-title="Shopping" tvg-type="Shopping",Tamil Naaptol
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://localhost:5350/live/key/3175
+http://localhost:5350/live/mpd/3175
+#EXTINF:-1 tvg-id="TNTSports2.uk@HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" tvg-country="United Kingdom" tvg-language="English" group-title="Sports" http-user-agent="Prime Video/3.0.58 (Android TV)",TNT Sports 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+#EXTVLCOPT:http-user-agent="Prime Video/3.0.58 (Android TV)"
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TNTSports4.uk@HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" tvg-country="United Kingdom" tvg-language="English" group-title="Sports" http-user-agent="Prime Video/3.0.58 (Android TV)",TNT Sports 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
+#EXTVLCOPT:http-user-agent="Prime Video/3.0.58 (Android TV)"
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Travelxp.in@4KHDR" tvg-logo="https://drive.usercontent.google.com/download?id=1rXypaHXPgaftD6rNF77OWhKjNAaAHYng&export=download" tvg-country="India" tvg-language="English" group-title="Lifestyle",Travelxp 4K HDR
+https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
+#EXTINF:-1 tvg-id="Travelxp.in@HD" tvg-logo="https://drive.usercontent.google.com/download?id=1IXRu47juNYbgO-tAqdruG4qIxi_8fHE_&export=download" tvg-country="India" tvg-language="English" group-title="Lifestyle" tvg-type="Lifestyle",Travelxp HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://localhost:5350/live/key/164
+http://localhost:5350/live/mpd/164
+#EXTINF:-1 tvg-id="0-9-zeecafehd" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00352H3S.png?lock=720x540" tvg-country="India" tvg-language="Hindi" group-title="Sports",Unite8 Sports 1 HD
+https://vortexsu.azmodz.in/vortextv/serve/proxy/zee5.php?id=0-9-zeecafehd&u=Stream-star
+#EXTINF:-1 tvg-id="VasanthTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144068_ld_h15_aa.png?lock=720x540" tvg-country="India" tvg-language="Tamil" group-title="Entertainment" tvg-type="Entertainment",Vasanth TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://localhost:5350/live/key/727
+http://localhost:5350/live/mpd/727
+#EXTINF:-1 tvg-id="VelichamTV.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Logo_of_Velicham_TV.png" tvg-country="India" tvg-language="Tamil" group-title="News" tvg-type="News",Velicham Tv
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://localhost:5350/live/key/3004
+http://localhost:5350/live/mpd/3004
+#EXTINF:-1 tvg-id="WillowSports.us@HD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png" tvg-country="United States" tvg-language="English" group-title="Sports" http-user-agent="Prime Video/3.0.58 (Android TV)",Willow Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+#EXTVLCOPT:http-user-agent="Prime Video/3.0.58 (Android TV)"
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF:-1 tvg-id="Yahoo!Finance.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Yahoo%21_Finance_logo_2021.png" tvg-country="United States" tvg-language="English" group-title="Business",Yahoo! Finance
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="0-9-129" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00239LE2.png?lock=720x540" tvg-country="India" tvg-language="Malayalam" group-title="Entertainment",Zee Keralam HD
+https://vortexsu.azmodz.in/vortextv/serve/proxy/zee5.php?id=0-9-129&u=Stream-star
+#EXTINF:-1 tvg-id="0-9-zeetamil" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540" tvg-country="India" tvg-language="Tamil" group-title="Entertainment",Zee Tamil HD
+https://vortexsu.azmodz.in/vortextv/serve/proxy/zee5.php?id=0-9-zeetamil&u=Stream-star
+#EXTINF:-1 tvg-id="ZeeTamilNews.in@HD" tvg-logo="https://cdnlogo.com/files/download/a9b0a1f91a8923cfa2a25feceec679a3" tvg-country="India" tvg-language="Tamil" group-title="News",Zee Tamil News
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/ZMCL/ZeeTamilNews.m3u8
+#EXTINF:-1 tvg-id="0-9-224" tvg-logo="https://static.cdnlogo.com/logos/z/10/zee-thirai-hd_thumb.png" tvg-country="India" tvg-language="Tamil" group-title="Movies",Zee Thirai HD
+https://vortexsu.azmodz.in/vortextv/serve/proxy/zee5.php?id=0-9-224&u=Stream-star
+#EXTINF:-1 tvg-id="0-9-348" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ZEST_HD/images/LOGO_HD/LOGO_HD_image.png" tvg-country="India" tvg-language="Hindi" group-title="Lifestyle",Zee Zest HD
+https://vortexsu.azmodz.in/vortextv/serve/proxy/zee5.php?id=0-9-348&u=Stream-star
