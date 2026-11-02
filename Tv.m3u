@@ -405,8 +405,8 @@ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="0-9-129" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00239LE2.png?lock=720x540" tvg-country="India" tvg-language="Malayalam" group-title="Entertainment",Zee Keralam HD
 https://vortexsu.azmodz.in/vortextv/serve/proxy/zee5.php?id=0-9-129&u=Stream-star
-#EXTINF:-1 tvg-id="0-9-zeetamil" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540" tvg-country="India" tvg-language="Tamil" group-title="Entertainment",Zee Tamil HD
-https://vortexsu.azmodz.in/vortextv/serve/proxy/zee5.php?id=0-9-zeetamil&u=Stream-star
+#EXTINF:-1 tvg-id="ZeeTamil.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540" tvg-country="India" tvg-language="Tamil" group-title="Entertainment",Zee Tamil HD
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/hls/Zee_Tamil_HD.m3u8
 #EXTINF:-1 tvg-id="ZeeTamilNews.in@HD" tvg-logo="https://cdnlogo.com/files/download/a9b0a1f91a8923cfa2a25feceec679a3" tvg-country="India" tvg-language="Tamil" group-title="News",Zee Tamil News
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/ZMCL/ZeeTamilNews.m3u8
 #EXTINF:-1 tvg-id="0-9-224" tvg-logo="https://static.cdnlogo.com/logos/z/10/zee-thirai-hd_thumb.png" tvg-country="India" tvg-language="Tamil" group-title="Movies",Zee Thirai HD
