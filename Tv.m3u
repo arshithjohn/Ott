@@ -312,18 +312,16 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/in
 https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8
 #EXTINF:-1 tvg-id="Shalom.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143774_ld_h15_aa.png?lock=720x540" tvg-country="India" tvg-language="Malayalam" group-title="Devotional",Shalom
 https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="SonyBBCEarth.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540" tvg-country="India" tvg-language="English" group-title="Infotainment" http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36" http-referrer="https://www.sonyliv.com/" referrer="https://www.sonyliv.com/",Sony BBC Earth HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36"
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTINF:-1 tvg-id="SonyBBCEarth.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540" tvg-country="India" tvg-language="English" group-title="Infotainment" http-user-agent="TiviMate/2.7.5 (Linux; Android 16; SM-M156B) ExoPlayerLib/1.10.1",Sony BBC Earth HD
+#EXTVLCOPT:http-user-agent="TiviMate/2.7.5 (Linux; Android 16; SM-M156B) ExoPlayerLib/1.10.1"
 #EXTVLCOPT:http-cookie=hdnea=exp=1792856063~acl=/*~id=46562618521668631488338931907659~hmac=4bc74954fdc0734e630cdf517667e6fae8a6120a40c194a2b111b8eabae2e7c4
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1792856063~acl=/*~id=46562618521668631488338931907659~hmac=4bc74954fdc0734e630cdf517667e6fae8a6120a40c194a2b111b8eabae2e7c4"}
-https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1792856063~acl=/*~id=46562618521668631488338931907659~hmac=4bc74954fdc0734e630cdf517667e6fae8a6120a40c194a2b111b8eabae2e7c4
-#EXTINF:-1 tvg-id="SonyPIX.in@HD" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png" tvg-country="India" tvg-language="English" group-title="Movies" http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36" http-referrer="https://www.sonyliv.com/" referrer="https://www.sonyliv.com/",Sony PIX HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36"
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+https://sliv.tgaadi.workers.dev/sonybbcearthhd.m3u8
+#EXTINF:-1 tvg-id="SonyPIX.in@HD" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png" tvg-country="India" tvg-language="English" group-title="Movies" http-user-agent="TiviMate/2.7.5 (Linux; Android 16; SM-M156B) ExoPlayerLib/1.10.1",Sony PIX HD
+#EXTVLCOPT:http-user-agent="TiviMate/2.7.5 (Linux; Android 16; SM-M156B) ExoPlayerLib/1.10.1"
 #EXTVLCOPT:http-cookie=hdnea=exp=1792856063~acl=/*~id=46562618521668631488338931907659~hmac=4bc74954fdc0734e630cdf517667e6fae8a6120a40c194a2b111b8eabae2e7c4
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1792856063~acl=/*~id=46562618521668631488338931907659~hmac=4bc74954fdc0734e630cdf517667e6fae8a6120a40c194a2b111b8eabae2e7c4"}
-https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1792856063~acl=/*~id=46562618521668631488338931907659~hmac=4bc74954fdc0734e630cdf517667e6fae8a6120a40c194a2b111b8eabae2e7c4
+https://sliv.tgaadi.workers.dev/pixhd.m3u8
 #EXTINF:-1 tvg-id="SunLife.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002Z1JE4.png?lock=720x540" tvg-country="India" tvg-language="Tamil" group-title="Entertainment",Sun Life
 https://livestream.sunnxt.com/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index.mpd
 #EXTINF:-1 tvg-id="SunMusic.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002Z1CL8.png?lock=720x540" tvg-country="India" tvg-language="Tamil" group-title="Music" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png",Sun Music HD
