@@ -19,8 +19,12 @@ https://livestream.sunnxt.com/4d0eb3cde30247ada4ade679fdfbaf86/AdithyaTVB_IN_ind
 https://ddash74r36xqp.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="AngelTV.in@HD" tvg-logo="https://i.imgur.com/qKLEGU7.png" tvg-country="India" tvg-language="Tamil" group-title="Devotional",Angel TV
 https://janya-digimix2.akamaized.net/india/ngrp:angelindia_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AnimaxAsia.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png" tvg-country="India" tvg-language="Japanese" group-title="Animation",Animax Asia India
-https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.in@HD" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/AnimalPlanetHD_Transparent_d36c0ee3-3e3f-4e0c-b3b2-23bfb3c3c2b0.png" tvg-country="India" tvg-language="English" group-title="Infotainment",Animal Planet HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8aaf27b53099505a8307b7df2f61b46c:83692149a2e59a8aae8e39ed6a1f6325
+https://login.bheem.tv/bpk-tv/22052/output/index.mpd
 #EXTINF:-1 tvg-id="AsianetNews.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/5f715bc6bd4e0ffae27bbe3cd86d5904.png" tvg-country="India" tvg-language="Malayalam" group-title="News" http-user-agent="AppleTV6,3/17.2 (Apple TV; U; en)",Asianet News
 #EXTVLCOPT:http-user-agent="AppleTV6,3/17.2 (Apple TV; U; en)"
 https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8
@@ -82,12 +86,13 @@ https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlis
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://localhost:5350/live/key/2031
 http://localhost:5350/live/mpd/2031
-#EXTINF:-1 tvg-id="FlowersTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143065_ld_h15_aa.png?lock=720x540" tvg-country="India" tvg-language="Malayalam" group-title="Entertainment" tvg-type="Entertainment",Flowers TV
+#EXTINF:-1 tvg-id="F1TV.in@HD" tvg-logo="https://i.imgur.com/cjXzWsI.png" tvg-country="India" tvg-language="English" group-title="Sports" http-user-agent="Prime Video/3.0.58 (Android TV)",F1 TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://localhost:5350/live/key/634
-http://localhost:5350/live/mpd/634
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3
+#EXTVLCOPT:http-user-agent="Prime Video/3.0.58 (Android TV)"
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd
 #EXTINF:-1 tvg-id="France24.fr@HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/France%2024.png" tvg-country="France" tvg-language="English" group-title="News",France 24
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="FTV.in@HD" tvg-logo="https://i.imgur.com/GFTAN5Q.png" tvg-country="India" tvg-language="English" group-title="Lifestyle" tvg-type="Lifestyle",FTV HD
@@ -105,9 +110,9 @@ http://localhost:5350/live/mpd/578
 #EXTINF:-1 tvg-id="InvestigationDiscovery.in@HD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10d7e8b1-9fe1-4c41-aeb7-331f4fb188aa/dfke6ez-fe931c72-72f8-41d0-80f7-a3415dc5db2e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8xMGQ3ZThiMS05ZmUxLTRjNDEtYWViNy0zMzFmNGZiMTg4YWEvZGZrZTZlei1mZTkzMWM3Mi03MmY4LTQxZDAtODBmNy1hMzQxNWRjNWRiMmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.G9TeILgo3So9H3t5bOP4lS00hq11YAIEdwS74fxmUpA" tvg-country="India" tvg-language="English" group-title="Entertainment" tvg-type="Entertainment",Investigation Discovery HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://localhost:5350/live/key/3435
-http://localhost:5350/live/mpd/3435
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30da751b70f05b5297d18d0c33c29f0c:86796e309d13495992282149f0957f74
+https://login.bheem.tv/bpk-tv/22076/output/index.mpd
 #EXTINF:-1 tvg-id="IsaiAruvi.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143212_ld_h15_aa.png?lock=720x540" tvg-country="India" tvg-language="Tamil" group-title="Music",Isai Aruvi
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -370,14 +375,18 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
 #EXTVLCOPT:http-user-agent="Prime Video/3.0.58 (Android TV)"
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Travelxp.in@4KHDR" tvg-logo="https://drive.usercontent.google.com/download?id=1rXypaHXPgaftD6rNF77OWhKjNAaAHYng&export=download" tvg-country="India" tvg-language="English" group-title="Lifestyle",Travelxp 4K HDR
-https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
-#EXTINF:-1 tvg-id="Travelxp.in@HD" tvg-logo="https://drive.usercontent.google.com/download?id=1IXRu47juNYbgO-tAqdruG4qIxi_8fHE_&export=download" tvg-country="India" tvg-language="English" group-title="Lifestyle" tvg-type="Lifestyle",Travelxp HD
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="TNTSports2.uk@HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" tvg-country="United Kingdom" tvg-language="English" group-title="Sports" http-user-agent="Prime Video/3.0.58 (Android TV)",TNT Sports 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://localhost:5350/live/key/164
-http://localhost:5350/live/mpd/164
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+#EXTVLCOPT:http-user-agent="Prime Video/3.0.58 (Android TV)"
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+#EXTINF:-1 tvg-id="TNTSports4.uk@HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" tvg-country="United Kingdom" tvg-language="English" group-title="Sports" http-user-agent="Prime Video/3.0.58 (Android TV)",TNT Sports 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
+#EXTVLCOPT:http-user-agent="Prime Video/3.0.58 (Android TV)"
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
 #EXTINF:-1 tvg-id="0-9-zeecafehd" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00352H3S.png?lock=720x540" tvg-country="India" tvg-language="Hindi" group-title="Sports",Unite8 Sports 1 HD
 https://vortexsu.azmodz.in/vortextv/serve/proxy/zee5.php?id=0-9-zeecafehd&u=Stream-star
 #EXTINF:-1 tvg-id="VasanthTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144068_ld_h15_aa.png?lock=720x540" tvg-country="India" tvg-language="Tamil" group-title="Entertainment" tvg-type="Entertainment",Vasanth TV
@@ -411,3 +420,15 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://vortexsu.azmodz.in/vortextv/serve/proxy/zee5.php?id=0-9-224&u=Stream-star
 #EXTINF:-1 tvg-id="0-9-348" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ZEST_HD/images/LOGO_HD/LOGO_HD_image.png" tvg-country="India" tvg-language="Hindi" group-title="Lifestyle",Zee Zest HD
 https://vortexsu.azmodz.in/vortextv/serve/proxy/zee5.php?id=0-9-348&u=Stream-star
+#EXTINF:-1 tvg-id="AnimalPlanet.in@HD" tvg-country="India" tvg-language="English" group-title="Infotainment",Animal Planet HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8aaf27b53099505a8307b7df2f61b46c:83692149a2e59a8aae8e39ed6a1f6325
+https://login.bheem.tv/bpk-tv/22052/output/index.mpd
+#EXTINF:-1 tvg-language="English" group-title="Sports",F1 TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd
